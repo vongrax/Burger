@@ -1,0 +1,18 @@
+.buttons{
+    width: 50%;
+    border: 1px solid #cccccc;
+}
+.list-group-item{
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    width: 15%;
+}
+.sum{
+    border-top: 1px solid #cccccc;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 7px 0;
+}
